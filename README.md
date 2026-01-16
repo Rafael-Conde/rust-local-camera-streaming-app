@@ -4,7 +4,7 @@ A camera streaming solution that allows you to stream your mobile device's camer
 
 ## Application Demo
 
-<video src="https://github.com/Rafael-Conde/rust-local-camera-streaming-app/blob/master/video_demo.mp4" type="video/mp4" width=300 controls>video</video>
+https://github.com/user-attachments/assets/46bdfb98-7640-466c-a39c-788da56d2bfa
 
 ## 📋 Prerequisites
 
