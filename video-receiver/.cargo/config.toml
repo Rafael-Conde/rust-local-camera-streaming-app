@@ -1,0 +1,9 @@
+[profile.opt]
+inherits = "release"
+codegen-units = 1
+lto = "fat"
+strip = true
+overflow-checks = false
+
+[env]
+PKG_CONFIG_PATH="/home/rafael/ffmpeg_build/lib/pkgconfig"
